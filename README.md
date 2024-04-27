@@ -15,5 +15,8 @@ One of the key features of weather forecast apps is their ability to provide det
 Moreover, weather forecast apps often offer additional features and functionalities to enhance user experience and utility. These may include interactive maps, severe weather alerts, customizable notifications, historical weather data, and integration with smart home devices and wearables.  
 conclution:  
 In conclusion, weather forecast apps have become indispensable tools in our daily lives, providing us with essential information to navigate the dynamic and often unpredictable nature of weather. These apps offer convenience, accuracy, and accessibility, allowing users to plan their activities, make informed decisions, and stay safe in the face of changing weather conditions.
+![Editing cod-TO-DO-LIST_README md at main · gowtham6477_cod-TO-DO-LIST - Google Chrome 27-04-2024 15_11_10](https://github.com/gowtham6477/cod-Weather-app/assets/157567472/0e236ea3-39f8-4fea-b898-8dc52847730e)
+![Editing cod-TO-DO-LIST_README md at main · gowtham6477_cod-TO-DO-LIST - Google Chrome 27-04-2024 15_11_58](https://github.com/gowtham6477/cod-Weather-app/assets/157567472/56aa66c0-e429-4a36-b2f3-d12564eb762b)
+![Editing cod-TO-DO-LIST_README md at main · gowtham6477_cod-TO-DO-LIST - Google Chrome 27-04-2024 15_12_07](https://github.com/gowtham6477/cod-Weather-app/assets/157567472/05772e05-d636-4994-9cf3-d9127d35e316)
 
 
